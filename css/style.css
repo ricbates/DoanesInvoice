@@ -33,8 +33,6 @@ textarea:-moz-placeholder { color:#a9a9a9; }
 
 }
 
-
-
 /* Print styles
 -------------------------------------------------------------------------------*/
 @media print {
@@ -44,6 +42,7 @@ textarea:-moz-placeholder { color:#a9a9a9; }
 }
 
 h1 { font-size:2em;}
+h2{ font-size: 1.7em;}
 .bdr{border: 1px solid gray; }
 .ht {height:0px;}
 
